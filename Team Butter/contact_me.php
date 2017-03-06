@@ -3,9 +3,9 @@
 // WARNING! PHP WILL ONLY RUN ON A WEB SERVER/ LOCAL HOST
 
 $name=$_POST['name'];
-$city=$_POST['email'];
+$email=$_POST['email'];
 $phone=$_POST['phone'];
-$email=$_POST['message'];
+$message=$_POST['message'];
 
 // Create the email and send it
  
